@@ -50,3 +50,7 @@ body {
     margin: 15px;
     pointer-events: none;
 }
+
+#idsong{
+    color: white;
+}
